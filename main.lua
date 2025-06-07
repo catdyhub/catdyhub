@@ -18,7 +18,7 @@ end
 -- ตัวอย่างฟังก์ชันอื่นที่สามารถเพิ่มได้:
 -- auto farm, teleport, UI, ESP, ฯลฯ
 -- โหลด Sirius UI
-local Sirius = loadstring(game:HttpGet("https://raw.githubusercontent.com/catdyhub/GUI/main/myscript.lua"))()
+local Sirius = loadstring(game:HttpGet("https://raw.githubusercontent.com/catdyhub/GUI/main/source.lua"))()
 
 -- สร้างหน้าต่างหลัก
 local Window = Sirius:CreateWindow({
