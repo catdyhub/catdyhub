@@ -1,5 +1,5 @@
 --// Load Sirius UI Library from catdyhub
-local Sirius = loadstring(game:HttpGet("https://raw.githubusercontent.com/catdyhub/GUI/main/source.lua"))()
+local Sirius = loadstring(game:HttpGet("https://raw.githubusercontent.com/catdyhub/catdyhub/main/source.lua"))()
 local Window = Sirius:CreateWindow("🌱 Grow a Garden GUI | by Depthso")
 
 --// Global References
